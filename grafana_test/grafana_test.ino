@@ -12,9 +12,9 @@
 #include <InfluxDbCloud.h>
 
 // WiFi AP SSID
-#define WIFI_SSID "AKATSUKI"
+#define WIFI_SSID "243"
 // WiFi password
-#define WIFI_PASSWORD "Ifreshcola"
+#define WIFI_PASSWORD "2431043deep"
 
 #define INFLUXDB_URL "https://eu-central-1-1.aws.cloud2.influxdata.com"
 #define INFLUXDB_TOKEN "Zna9uBMs0ZD4_zby13mWVHTPb_79Zu3QUgZVvw3gosZLMAuDCaYXMwjcpuMyHc8S-mExXh1ajvxxPZnNf4FTgQ=="
