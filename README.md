@@ -24,7 +24,7 @@ How ot create DB and grafana account and connect both of them watch here: https:
 
 Connect the board to the computer via USB.
 
-In the Arduino IDE, open the main.ino file.
+In the Arduino IDE, open the grafana_test.ino file.
 
 Replace the following lines with your data:
     #define WIFI_SSID "Your_SSID"
